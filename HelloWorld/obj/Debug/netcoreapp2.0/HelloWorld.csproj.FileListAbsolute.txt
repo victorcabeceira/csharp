@@ -1,0 +1,10 @@
+/home/victor/victor/udemy/c#/csharp/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.deps.json
+/home/victor/victor/udemy/c#/csharp/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.json
+/home/victor/victor/udemy/c#/csharp/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.dev.json
+/home/victor/victor/udemy/c#/csharp/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.dll
+/home/victor/victor/udemy/c#/csharp/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.pdb
+/home/victor/victor/udemy/c#/csharp/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/victor/victor/udemy/c#/csharp/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfoInputs.cache
+/home/victor/victor/udemy/c#/csharp/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfo.cs
+/home/victor/victor/udemy/c#/csharp/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.dll
+/home/victor/victor/udemy/c#/csharp/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.pdb
